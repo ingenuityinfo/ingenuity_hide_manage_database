@@ -8,13 +8,13 @@ By using this module you can hide secure your Database Information from public u
 
 Odoo Version
 =============
-Odoo 16 Community Edition
+Odoo 17 Community Edition
 
 
 Release Notes
 =============
 
-[16.0.0.0] :  Add Module
+[17.0.0.0] :  Add Module
 
 
 Installation
